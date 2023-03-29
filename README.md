@@ -2,4 +2,8 @@
 
 >Status do projetos: Em desenvolvimento
 
-Para rodar esse 
+Para rodar esse projeto por favor digite:
+
+'''
+pip instal...
+'''
