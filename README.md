@@ -5,5 +5,5 @@
 Para rodar esse projeto por favor digite:
 
 '''
-pip instal...
+pip instal
 '''
